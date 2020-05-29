@@ -1,0 +1,50 @@
+[
+  {
+    "FIRST_NAME": "Iris",
+    "LAST_NAME": "Accos",
+    "EMAIL": "green-ono@012.net.il",
+    "PHONE_NUMBER": "0506815880",
+    "HIRE_DATE": "2018-01-23",
+    "JOB_ID": "sell",
+    "SALARY": 15000,
+    "COMISSION_PCT": 25,
+    "MANAGER_ID": "10",
+    "DEPARTMENT_ID": 1
+  },
+  {
+    "FIRST_NAME": "vered",
+    "LAST_NAME": "osher",
+    "EMAIL": "veredh@gmail.com",
+    "PHONE_NUMBER": "0537229145",
+    "HIRE_DATE": "2015-09-10",
+    "JOB_ID": "gardening",
+    "SALARY": 14000,
+    "COMISSION_PCT": 17,
+    "MANAGER_ID": "25",
+    "DEPARTMENT_ID": 4
+  },
+  {
+    "FIRST_NAME": "benyamin",
+    "LAST_NAME": "laychter",
+    "EMAIL": "benilychter@gmail.com",
+    "PHONE_NUMBER": "0544398271",
+    "HIRE_DATE": "2017-08-04",
+    "JOB_ID": "gardening",
+    "SALARY": 12000,
+    "COMISSION_PCT": 17,
+    "MANAGER_ID": "25",
+    "DEPARTMENT_ID": 4
+  },
+  {
+    "FIRST_NAME": "guy",
+    "LAST_NAME": "bery",
+    "EMAIL": "guybery2131",
+    "PHONE_NUMBER": "0554839201",
+    "HIRE_DATE": "2016-07-26",
+    "JOB_ID": "sell",
+    "SALARY": 18000,
+    "COMISSION_PCT": 17,
+    "MANAGER_ID": "10",
+    "DEPARTMENT_ID": 1
+  }
+]

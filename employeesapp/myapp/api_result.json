@@ -1,0 +1,124 @@
+{
+  "employee": [
+    {
+      "FIRST_NAME": "Ella",
+      "LAST_NAME": "Accos",
+      "EMAIL": "elaela900@gmail.com",
+      "PHONE_NUMBER": "0522824387",
+      "HIRE_DATE": "2019-10-17",
+      "JOB_ID": "sell",
+      "SALARY": 25000,
+      "COMISSION_PCT": 30,
+      "MANAGER_ID": "10",
+      "DEPARTMENT_ID": 1
+    },
+    {
+      "FIRST_NAME": "Iris",
+      "LAST_NAME": "Accos",
+      "EMAIL": "green-ono@012.net.il",
+      "PHONE_NUMBER": "0506815880",
+      "HIRE_DATE": "2018-01-23",
+      "JOB_ID": "sell",
+      "SALARY": 15000,
+      "COMISSION_PCT": 25,
+      "MANAGER_ID": "10",
+      "DEPARTMENT_ID": 1
+    },
+    {
+      "FIRST_NAME": "Uri",
+      "LAST_NAME": "Accos",
+      "EMAIL": "uriburi@gmail.com",
+      "PHONE_NUMBER": "0522824386",
+      "HIRE_DATE": "2016-04-24",
+      "JOB_ID": "Human Resources",
+      "SALARY": 20000,
+      "COMISSION_PCT": 27,
+      "MANAGER_ID": "15",
+      "DEPARTMENT_ID": 2
+    },
+    {
+      "FIRST_NAME": "judith",
+      "LAST_NAME": "revah",
+      "EMAIL": "revha_y@netvvision.net.il",
+      "PHONE_NUMBER": "0506899760",
+      "HIRE_DATE": "2018-01-19",
+      "JOB_ID": "graphic",
+      "SALARY": 23000,
+      "COMISSION_PCT": 27,
+      "MANAGER_ID": "20",
+      "DEPARTMENT_ID": 3
+    },
+    {
+      "FIRST_NAME": "vered",
+      "LAST_NAME": "osher",
+      "EMAIL": "veredh@gmail.com",
+      "PHONE_NUMBER": "0537229145",
+      "HIRE_DATE": "2015-09-10",
+      "JOB_ID": "gardening",
+      "SALARY": 14000,
+      "COMISSION_PCT": 17,
+      "MANAGER_ID": "25",
+      "DEPARTMENT_ID": 4
+    },
+    {
+      "FIRST_NAME": "shir",
+      "LAST_NAME": "osher",
+      "EMAIL": "shir1000@gmail.com",
+      "PHONE_NUMBER": "0556661609",
+      "HIRE_DATE": "2014-04-01",
+      "JOB_ID": "Human Resources",
+      "SALARY": 23500,
+      "COMISSION_PCT": 27,
+      "MANAGER_ID": "15",
+      "DEPARTMENT_ID": 2
+    },
+    {
+      "FIRST_NAME": "benyamin",
+      "LAST_NAME": "laychter",
+      "EMAIL": "benilychter@gmail.com",
+      "PHONE_NUMBER": "0544398271",
+      "HIRE_DATE": "2017-08-04",
+      "JOB_ID": "gardening",
+      "SALARY": 12000,
+      "COMISSION_PCT": 17,
+      "MANAGER_ID": "25",
+      "DEPARTMENT_ID": 4
+    },
+    {
+      "FIRST_NAME": "lior",
+      "LAST_NAME": "ohayonn",
+      "EMAIL": "liorll22",
+      "PHONE_NUMBER": "0522969884",
+      "HIRE_DATE": "2018-11-08",
+      "JOB_ID": "sell",
+      "SALARY": 22000,
+      "COMISSION_PCT": 25,
+      "MANAGER_ID": "10",
+      "DEPARTMENT_ID": 1
+    },
+    {
+      "FIRST_NAME": "eli",
+      "LAST_NAME": "choen",
+      "EMAIL": "eliyah3@gmail.com",
+      "PHONE_NUMBER": "0534879278",
+      "HIRE_DATE": "2019-01-20",
+      "JOB_ID": "graphic",
+      "SALARY": 21000,
+      "COMISSION_PCT": 25,
+      "MANAGER_ID": "20",
+      "DEPARTMENT_ID": 3
+    },
+    {
+      "FIRST_NAME": "guy",
+      "LAST_NAME": "bery",
+      "EMAIL": "guybery2131",
+      "PHONE_NUMBER": "0554839201",
+      "HIRE_DATE": "2016-07-26",
+      "JOB_ID": "sell",
+      "SALARY": 18000,
+      "COMISSION_PCT": 17,
+      "MANAGER_ID": "10",
+      "DEPARTMENT_ID": 1
+    }
+  ]
+}
